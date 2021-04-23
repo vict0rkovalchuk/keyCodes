@@ -1,0 +1,194 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ff8303;
+}
+
+.main {
+  position: absolute;
+  width: 1536px;
+  height: 352.8px;
+  left: 0px;
+  top: 0px;
+}
+
+.js-main-numbers {
+  position: absolute;
+  width: 1536px;
+  /* height: 352.8px; */
+  /* left: 215px; */
+  top: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #f0e3ca;
+  font-weight: bold;
+  font-size: 288.96px;
+  text-align: center;
+}
+
+.blocks {
+  top: 380px;
+  position: absolute;
+  width: 1536px;
+  height: 226.2px;
+}
+
+.js-first-block {
+  position: absolute;
+  width: 271.6px;
+  height: 91.2px;
+  left: 120px;
+  background-color: #1b1a17;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.js-second-block {
+  position: absolute;
+  width: 271.6px;
+  height: 91.2px;
+  left: 444px;
+  background-color: #1b1a17;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.js-third-block {
+  position: absolute;
+  width: 271.6px;
+  height: 91.2px;
+  left: 768px;
+  background-color: #1b1a17;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.js-fourth-block {
+  position: absolute;
+  width: 271.6px;
+  height: 91.2px;
+  left: 1092px;
+  background-color: #1b1a17;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.js-key {
+  position: absolute;
+  color: #f0e3ca;
+  text-align: center;
+  background-color: #a35709;
+  width: 271.6px;
+  border-radius: 5px 5px 0 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js-location {
+  position: absolute;
+  color: #f0e3ca;
+  text-align: center;
+  background-color: #a35709;
+  width: 271.6px;
+  border-radius: 5px 5px 0 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js-which {
+  position: absolute;
+  color: #f0e3ca;
+  text-align: center;
+  background-color: #a35709;
+  width: 271.6px;
+  border-radius: 5px 5px 0 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js-code {
+  position: absolute;
+  color: #f0e3ca;
+  text-align: center;
+  background-color: #a35709;
+  width: 271.6px;
+  border-radius: 5px 5px 0 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js1 {
+  position: absolute;
+  width: 271.6px;
+  height: 72px;
+  top: 19.2px;
+  color: #f0e3ca;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js2 {
+  position: absolute;
+  width: 271.6px;
+  height: 72px;
+  top: 19.2px;
+  color: #f0e3ca;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js3 {
+  position: absolute;
+  width: 271.6px;
+  height: 72px;
+  top: 19.2px;
+  color: #f0e3ca;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.js4 {
+  position: absolute;
+  width: 271.6px;
+  height: 72px;
+  top: 19.2px;
+  color: #f0e3ca;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.text1 {
+  position: absolute;
+  width: 155px;
+  left: 58.3px;
+  top: 15.2px;
+  font-size: 35px;
+}
+
+.text2 {
+  position: absolute;
+  width: 155px;
+  left: 58.3px;
+  top: 15.2px;
+  font-size: 35px;
+}
+
+.text3 {
+  position: absolute;
+  width: 155px;
+  left: 58.3px;
+  top: 15.2px;
+  font-size: 35px;
+}
+
+.text4 {
+  position: absolute;
+  width: 155px;
+  left: 58.3px;
+  top: 15.2px;
+  font-size: 35px;
+}
