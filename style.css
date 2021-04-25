@@ -45,6 +45,12 @@ body {
   background-color: #1b1a17;
   text-align: center;
   border-radius: 5px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.js-first-block:hover {
+  transform: scale(0.95);
 }
 
 .js-second-block {
@@ -55,6 +61,12 @@ body {
   background-color: #1b1a17;
   text-align: center;
   border-radius: 5px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.js-second-block:hover {
+  transform: scale(0.95);
 }
 
 .js-third-block {
@@ -65,6 +77,12 @@ body {
   background-color: #1b1a17;
   text-align: center;
   border-radius: 5px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.js-third-block:hover {
+  transform: scale(0.95);
 }
 
 .js-fourth-block {
@@ -75,6 +93,12 @@ body {
   background-color: #1b1a17;
   text-align: center;
   border-radius: 5px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.js-fourth-block:hover {
+  transform: scale(0.95);
 }
 
 .js-key {
