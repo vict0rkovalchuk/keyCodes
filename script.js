@@ -1,10 +1,10 @@
 "use strict";
 
 let mainValue = document.querySelector(".js-main-numbers"),
-  key = document.querySelector(".text1"),
-  locationRef = document.querySelector(".text2"),
-  which = document.querySelector(".text3"),
-  code = document.querySelector(".text4");
+  key = document.querySelector(".description1"),
+  locationRef = document.querySelector(".description2"),
+  which = document.querySelector(".description3"),
+  code = document.querySelector(".description4");
 
 window.addEventListener("keydown", (event) => {
   mainValue.textContent = event.keyCode;
@@ -12,4 +12,8 @@ window.addEventListener("keydown", (event) => {
   locationRef.textContent = event.location;
   which.textContent = event.which;
   code.textContent = event.code;
+
+  if (event.code === "Space") {
+    key.textContent = "-";
+  }
 });
